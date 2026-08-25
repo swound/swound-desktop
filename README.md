@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-swound.com-blue)](https://swound.com)
 [![macOS](https://img.shields.io/badge/macOS-Supported-black?logo=apple)](https://swound.com)
+![Windows](https://img.shields.io/badge/Windows-Soon-black?logo=windows)
 [![Latest Release](https://img.shields.io/github/v/release/swound/swound-desktop)](https://github.com/swound/swound-desktop/releases)
 
 **Swound** is a collaborative cloud platform for music production, designed for modern producers, composers, beatmakers, and audio professionals.
