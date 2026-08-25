@@ -206,6 +206,9 @@ Create your free account at **https://swound.com**, then download the desktop ap
 
 ---
 
-## Keywords
+# Connect with Swound
 
-AI Music Generator, AI Music Production, Music Collaboration, Cloud Collaboration for Musicians, Ableton Cloud Sync, Logic Pro Cloud Collaboration, FL Studio Cloud Storage, GarageBand Collaboration, AI Song Generator, AI Instrumental Generator, AI Audio to MIDI, AI Stem Splitter, Music Production Software, DAW Collaboration, Music Producer Tools, AI Audio Tools, Cloud Music Production, Music Workflow, Remote Music Collaboration, AI Sample Generator, AI Loop Generator.
+[![YouTube](https://img.shields.io/badge/YouTube-@swoundapp-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@swoundapp)
+[![Instagram](https://img.shields.io/badge/Instagram-@swoundapp-E4405F?logo=instagram&logoColor=white)](https://instagram.com/swoundapp)
+[![TikTok](https://img.shields.io/badge/TikTok-@swoundapp-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@swoundapp)
+[![Facebook](https://img.shields.io/badge/Facebook-@swoundapp-1877F2?logo=facebook&logoColor=white)](https://facebook.com/swoundapp)
